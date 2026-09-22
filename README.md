@@ -29,6 +29,7 @@ Social media use negatively correlates with healthy eating and wellness app usag
 ## Files
 
 - `Tech Use and Stress Wellness.ipynb` — full analysis: data cleaning, correlation analysis, and modeling
+- `Kaggle Dataset.csv` - source file
 
 ## Screenshots
 
