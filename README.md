@@ -34,7 +34,7 @@ Social media use negatively correlates with healthy eating and wellness app usag
 
 <img width="1152" height="648" alt="scrntime-stresslvl" src="https://github.com/user-attachments/assets/292667a7-9cff-4548-b583-21aca1e712b9" />
 <img width="1476" height="702" alt="socmed-wellness" src="https://github.com/user-attachments/assets/c71d832b-1824-4565-907b-e6366393fb14" />
-<img width="1152" height="648" alt="accuracy-scores" src="https://github.com/user-attachments/assets/b2e57250-333b-4c03-828b-c2c1dd0fe35b" />
+<img width="1152" height="866" alt="accuracy-scores" src="https://github.com/user-attachments/assets/f31054e7-8eb5-4c1b-937a-a9c77806bed7" />
 
 ## Attribution
 
